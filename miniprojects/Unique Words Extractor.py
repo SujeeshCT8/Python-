@@ -9,4 +9,4 @@ for w in Word:
 
 for word,count in w_count.items():
     if count == 1:
-        print(word)
+        print(word,":",count)
